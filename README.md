@@ -4,7 +4,11 @@
 ## アウトプットの履歴
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hukuryo&theme=2077)
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hukuryo&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+### グラフ
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/apiusername=hukuryoshow_icons=true&theme=hukuryo)
+
+[![github-chart](https://github-chart.vercel.app/api?user=hukuryo)](https://github.com/hukuryo/github-chart)
 
 
 ## 獲得トロフィー
@@ -13,4 +17,6 @@
 ## 使用言語
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hukuryo&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
+### フォローボタン
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20hukuryo)](https://github.com/hukuryo)
+
