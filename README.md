@@ -1,13 +1,10 @@
 ## hukuryoです。
-  　　簡単なプロフィールになります。
+簡単なプロフィールになります。
 
 ## アウトプットの履歴
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hukuryo&theme=2077)
 
 ### グラフ
-![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=hukuryoshow_icons=true&theme=hukuryo)
-
 [![github-chart](https://github-chart.vercel.app/api?user=hukuryo)](https://github.com/hukuryo/github-chart)
 
 
