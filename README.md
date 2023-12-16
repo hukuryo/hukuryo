@@ -1,5 +1,4 @@
-## hukuryoです。
-簡単なプロフィールになります。
+## Profile
 
 ## アウトプットの履歴
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hukuryo&theme=2077)
